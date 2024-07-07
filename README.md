@@ -1,4 +1,5 @@
-<img width="258" alt="Screenshot 2024-07-04 184607" src="https://github.com/byToolz/Uoyton-Menu/assets/174354372/e86e2c0e-897b-4a87-a496-caf4201037f0">
+<img width="257" alt="image" src="https://github.com/byToolz/Uoyton-Menu/assets/174354372/7d96a90a-12fb-4261-8532-4404d3abd787">
+
 
 
 Infos, Bugs and Fixed stuff.  
