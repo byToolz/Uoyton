@@ -6,7 +6,7 @@ Infos, Bugs and Fixed stuff.
 Infos: 
 
 💾 - Download: 
-Download the Project as .zip and than copy the Uoyton-Menu Tool-Folder (not the zip) to the Desktop. (Its really important that the file is saved on the Desktop!)
+Download the Project as .zip than start the Uoyton-Menu.exe file and click on extract all (extract the files to the Desktop, thats really important!)
 Than just run the Uoyton-Menu.exe file and the Programm will do everything by itself. 
 
 ⚠️ - Warning: 
