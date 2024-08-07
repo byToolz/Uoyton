@@ -7,25 +7,14 @@ Infos, Bugs and Fixed stuff.
 Infos: 
 
 💾 - Download: 
-Download the Project as .zip than start the Uoyton-Menu.exe file and click on extract all (extract the files to the Desktop, thats really important!)
-Than just run the Uoyton-Menu.exe file and the Programm will do everything by itself. 
+Download the Project zip file with one of the Versions & Download-Links Links 
+Drag the Uoyton Main folder on the desktop (NOT THE ZIP!) 
+Run the Uoyton.exe file (very hard)
 
 ⚠️ - Warning: 
 Dont Move or delete any files in the Folder! if you do the Programm will not be working. 
 
-
-📢 - Starting the Discord-Token-Grabber:
-You may have some Problems Because the DTG (Discord-Token-Grabber) isnt starting, here is what you can do:
-
-In a few days will come an update that will fix the most Problems.
-
-Do you have OneDrive or something like this installed? Than you HAVE TO start it manually. 
-
-Open the File Manually, for this make sure you have "Show hidden folders" on, than go to Uoyton-Menu Tool\Discord-Tokengrabber\Tokengrabber\bin\Debug\Tokengrabber.exe. 
-
-If the Tokengrabber Opens but than Closes instantly Maybe it helps to download Visual Studio 2022 (With all C# Features installed) 
-
-💿 - Save the Menu on the Desktop!! 
+💿 - Save the Menu on the Desktop!
 
 🛠️ - The Tool only works on Windows 10/11 (Maybe its working on older versions but i didnt tested this.) 
 
@@ -43,6 +32,7 @@ Bugs:
 
 🔧 - The Webhook Spammer is closing somethimes after entering the Message, you only have to start the Programm again. 
 
-🔧 - The Discord-Token-Grabber isnt opening on some PCs look in Infos. 
+🔧 - The Discord-Token-Grabber isnt working sometimes but just start it again if it isnt working anyway 
+than check the entered datas or wait an hour that it should be working.
 
 🔧 - Did you find another Bug? Report it in my Discord Server, that would help me a lot ❤️. 
