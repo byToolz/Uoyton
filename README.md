@@ -1,10 +1,12 @@
-<img width="257" alt="image" src="https://github.com/byToolz/Uoyton-Menu/assets/174354372/7d96a90a-12fb-4261-8532-4404d3abd787">
+<img width="255" alt="Menu (Page 1)" src="https://github.com/user-attachments/assets/953fb59a-f5ea-47cb-b89d-ed976389667e">
 
 
 
 Infos, Bugs and Fixed stuff.  
 
 Infos: 
+
+❗- Install Python 3.9! 
 
 💾 - Download: 
 Download the Project zip file with one of the Versions & Download-Links Links 
