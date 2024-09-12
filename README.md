@@ -9,7 +9,7 @@ Infos, Bugs and Fixed stuff.
 
 Infos: 
 
-❗- Install Python 3.9! 
+❗- Install Python 3.9 or 3.12.6 📢
 
 💾 - Download: 
 Download the Project zip file with one of the Versions & Download-Links Links 
