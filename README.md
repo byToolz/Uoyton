@@ -42,3 +42,5 @@ Bugs:
 than check the entered datas or wait an hour that it should be working.
 
 🔧 - Did you find another Bug? Report it in my Discord Server, that would help me a lot ❤️. 
+
+![3790ebf355024537a2cce0bddbe14527-free](https://github.com/user-attachments/assets/1c554978-2df9-4560-bcd0-9d685251612a)
